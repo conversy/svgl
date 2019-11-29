@@ -6,9 +6,9 @@ The absence of an intermediate raster step makes it very performant.
 
 ## Authors and licensing ##
 
-Copyright (c) 2000-2004 Stephane Conversy <conversy@enac.fr>, http://www.tls.cena.fr/~conversy
+Copyright (c) 2000-2004 Stéphane Conversy <stephane.conversy@enac.fr>, http://www.enac.fr/~conversy
 
-Copyright (c) 2000-2004 Jean-Daniel Fekete <fekete@inria.fr>, http://www.lri.fr/~conversy
+Copyright (c) 2000-2004 Jean-Daniel Fekete <fekete@inria.fr>, https://www.aviz.fr/~fekete/
 
 - see license.txt for the GNU LGPL license
 - see docs/agglicense.txt for agg license
